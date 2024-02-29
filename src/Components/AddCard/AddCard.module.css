@@ -1,0 +1,29 @@
+.form {
+  margin: 10px;
+  padding: 5px;
+}
+
+.input {
+  display: block;
+  margin: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid blue;
+  transition: border-color 0.5s aqua;
+}
+
+.select {
+  display: block;
+  margin: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid blue;
+}
+
+.button {
+  display: block;
+  margin: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid blue;
+}
