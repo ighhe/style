@@ -6,13 +6,14 @@
   border-radius: 15px;
   margin: 10px;
   height: 250px;
-  width: 45%;
+  width: 450px;
   overflow: hidden;
   text-align: center;
 }
 
 .pic {
   width: 100%;
+  object-fit: scale-down;
 }
 
 h3 {
